@@ -1,4 +1,16 @@
-# Assignment Ideas
+# Assignment Ideas <!-- omit in toc -->
+
+- [Hangman](#hangman)
+- [Library Booking System](#library-booking-system)
+- [Ceasar Cipher](#ceasar-cipher)
+- [Grading System](#grading-system)
+- [Travelling tourist system](#travelling-tourist-system)
+- [Bill management and purchases](#bill-management-and-purchases)
+- [Apartment rental](#apartment-rental)
+- [Card Game](#card-game)
+- [Gitignore Combiner](#gitignore-combiner)
+- [Treasure Hunt](#treasure-hunt)
+- [TV Show Scheduling](#tv-show-scheduling)
 
 ## Hangman
 
@@ -44,8 +56,24 @@ Implement a system that manage your monthly bills and purchases. Given the month
 
 ## Apartment rental
 
+A interval scheduling problem that could be solved using the greedy approach.
+
 Scenario: As a home owner you are planning to rent out your apartment for short-term accomodation like AirBnb. You have a list of people that are interested in renting out your apartment along with the number of days they are staying. Your goal is to maximise the number of days your apartment is rented out, as a aspiring software engineer, you have decided to implement a system that will solve this problem for you.
 
 ## Card Game
 
 Imeplment a standard deck of cards and then implement a simple card game.
+
+## Gitignore Combiner
+
+Implement a program that combines text files together, similar to the Unix program `cat`.
+
+## Treasure Hunt
+
+A fractional knapsack problem that could be solved using the greedy approach.
+
+Scenario: You are a treasure hunter and you have come across a island filled with treasure. As you come treasure trove, you also see a sign that says 'these treasures only come once, choose carefully'. You interpret that you might not able to visit this island again and encounter this treasure trove. Although you are unsure whether the sign is true or not, you have decide to not risk it and try to get the most valued item and put it back into your ship and take it back home. You have decided to write a software that will help you solve this problem.
+
+## TV Show Scheduling
+
+Scenario: You are going to your friends house next weekend to watch TV shows, there are many shows that day that you two would like to watch, you and your friend have listed the shows for that day and given each show a number. The lower the number, the more important that show is. Your task is to implement a program that returns a schedule.
